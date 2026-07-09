@@ -37,7 +37,7 @@ My primary driver right now is **learning**. I want to be in environments where 
 
 ### 📫 Connect with me
 
-* **LinkedIn:** [Bruno Melchiades](www.linkedin.com/in/bruno-melchiades-amaral-lopes-6a8147406)
+* **LinkedIn:** [Bruno Melchiades](https://www.linkedin.com/in/bruno-melchiades-amaral-lopes-6a8147406)
 * **Institutional Email:** `brunomelchiades@alunos.utfpr.edu.br` *(Primary for academic/industry inquiries)*
 * **Personal Email:** `melcbruno23@gmail.com`
 
