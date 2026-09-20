@@ -17,13 +17,13 @@ Since I am in my **first semester**, my primary focus right now is mastering the
   *NumPy, Pandas, Matplotlib, VS Code.*
 
 * **Domain & Methods:** ![Quantitative Finance](https://img.shields.io/badge/Quantitative_Finance-%231E1E1E.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTE2IDZIMThWMThIMTZWNk0xMiAxM0gxNFYxOEgxMlYxM004IDEwSDEwVjE4SDhWMTBNNCAxNEg2VjE4SDRWMTRNMiAyM0gyMlYyMUgyVjIzWiIvPjwvc3ZnPg==) ![Monte Carlo](https://img.shields.io/badge/Monte_Carlo_Simulations-%234B0082.svg?style=for-the-badge)
-  *Simulating asset price trajectories using Geometric Brownian Motion (GBM) pipelines, and refactoring code bases to institutional standards.*
+  *Simulating asset price trajectories using Geometric Brownian Motion (GBM) pipelines, refactoring code bases to institutional standards, using APIs to create AlgoTrading Bots.*
 
 ---
 
 ### 🧠 Why Quantitative Finance?
 
-My interest in finance goes beyond just numbers on a screen; it’s about understanding the underlying patterns of global systems. While standard software engineering is great, I am deeply fascinated by how we can use stochastic processes, statistical modeling, and pure compute power to navigate market complexity and manage risk. 
+My interest in finance began since I was a kid, but I didn't thought mathematics would have such a crucial role in it, until I heard about Quants; it’s about understanding the underlying patterns of global systems. While standard software engineering is great, I am deeply fascinated by how we can use stochastic processes, statistical modeling, and pure compute power to navigate market complexity and manage risk. 
 
 I don't just want to build apps; I want to build models that decode the market.
 
