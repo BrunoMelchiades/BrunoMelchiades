@@ -1,44 +1,50 @@
 # Hi, I'm Bruno 👋
 
-I am a first-year Computer Science student at UTFPR (Federal University of Technology – Paraná). I entered the university achieving **1st place overall** in the admissions, which for me wasn't a finish line, but the starting gun to work even harder. 
+I'm a first-year Computer Science student at UTFPR (Federal University of Technology – Paraná), working toward a career at the intersection of mathematics, software engineering, and financial markets.
 
-My goal is simple: I want to build a career where rigorous mathematics, clean code, and financial markets intersect. **I am an aspiring Quantitative Analyst.**
-
----
-
-### 🛠️ Current Focus & Stack
-
-Since I am in my **first semester**, my primary focus right now is mastering the fundamentals while building portfolio projects that reflect real-world desk environments:
-
-* **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-  *(Core development and vectorization)* — English (Fluent/Bilingual), Portuguese (Native).
-
-* **Libraries & Tools:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-  *NumPy, Pandas, Matplotlib, VS Code.*
-
-* **Domain & Methods:** ![Quantitative Finance](https://img.shields.io/badge/Quantitative_Finance-%231E1E1E.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTE2IDZIMThWMThIMTZWNk0xMiAxM0gxNFYxOEgxMlYxM004IDEwSDEwVjE4SDhWMTBNNCAxNEg2VjE4SDRWMTRNMiAyM0gyMlYyMUgyVjIzWiIvPjwvc3ZnPg==) ![Monte Carlo](https://img.shields.io/badge/Monte_Carlo_Simulations-%234B0082.svg?style=for-the-badge)
-  *Simulating asset price trajectories using Geometric Brownian Motion (GBM) pipelines, refactoring code bases to institutional standards, using APIs to create AlgoTrading Bots.*
+I'm early in this path and learning in public — this profile tracks what I'm actually building, not where I plan to end up.
 
 ---
 
-### 🧠 Why Quantitative Finance?
+### 🛠️ Stack
 
-My interest in finance began since I was a kid, but I didn't thought mathematics would have such a crucial role in it, until I heard about Quants; it’s about understanding the underlying patterns of global systems. While standard software engineering is great, I am deeply fascinated by how we can use stochastic processes, statistical modeling, and pure compute power to navigate market complexity and manage risk. 
+**Languages:** Python
 
-I don't just want to build apps; I want to build models that decode the market.
+**Libraries:** NumPy, Pandas, Matplotlib
 
-### 💼 Career & Opportunities
+**Tools:** Git, VS Code
 
-I am actively looking for **internships, junior roles, or freelance opportunities** in software development, data analysis, or quantitative finance. 
-
-My primary driver right now is **learning**. I want to be in environments where I can be challenged, absorb mentorship from experienced developers or portfolio managers, and deliver clean, high-performance code in return.
+**Domain:** Stochastic processes (Geometric Brownian Motion), Monte Carlo simulation, REST API integration for trading systems
 
 ---
 
-### 📫 Connect with me
+### 📌 Projects
 
-* **LinkedIn:** [Bruno Melchiades](https://www.linkedin.com/in/bruno-melchiades-amaral-lopes-6a8147406)
-* **Institutional Email:** `brunomelchiades@alunos.utfpr.edu.br` *(Primary for academic/industry inquiries)*
-* **Personal Email:** `melcbruno23@gmail.com`
+- **[GBM-monte-carlo-analytics](https://github.com/BrunoMelchiades/GBM-monte-carlo-analytics)** — Monte Carlo simulator for asset price paths using Geometric Brownian Motion, vectorized with NumPy.
+- **[Alpaca-Trading-CLI](https://github.com/BrunoMelchiades/Alpaca-Trading-CLI)** — Command-line tool for the Alpaca Trading API: account monitoring, position tracking, and order execution against the paper/live sandbox.
 
-*"The best way to predict the future is to simulate it."*
+**Next up:**
+- A data extraction pipeline to feed historical price data into the GBM simulator
+- Connecting the GBM engine to the Alpaca API for a long-term-oriented equities strategy
+- A crypto trading bot
+
+---
+
+### 🧭 Why quant
+
+I got interested in markets before I understood how much math sits underneath them. What keeps me interested now is the combination: not just writing software, but writing software that has to be *correct* — where a rounding error or an off-by-one isn't a minor bug, it's money.
+
+I don't have a finished thesis on this yet. I'm building toward one, one project at a time.
+
+---
+
+### 💼 Looking for
+
+I'm looking for an **internship** in software engineering, quantitative finance, or data — somewhere I can contribute real work while learning from people more experienced than me.
+
+---
+
+### 📫 Contact
+
+- **LinkedIn:** [Bruno Melchiades](https://www.linkedin.com/in/bruno-melchiades-amaral-lopes-6a8147406)
+- **Email:** `brunomelchiades@alunos.utfpr.edu.br`
